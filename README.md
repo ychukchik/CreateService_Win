@@ -1,2 +1,2 @@
 # CreateService_Win
-File backup
+Backup files from the specified directory.
